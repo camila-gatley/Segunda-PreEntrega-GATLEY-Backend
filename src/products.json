@@ -1,0 +1,52 @@
+[
+	{
+		"id": 1,
+		"title": "Moto G42 128 GB rosa metálico 4 GB RAM",
+		"description": "Telefono Motorola G42 128 GB rosa metálico 4 GB RAM",
+		"code": "code1",
+		"price": 89999,
+		"status": true,
+		"stock": 10,
+		"category": "Cellphone"
+	},
+	{
+		"id": 2,
+		"title": "Tablet Samsung Galaxy Tab S S6 Lite",
+		"description": "SM-P613 10.4 pulgadas 64GB angora blue y 4GB de memoria RAM",
+		"code": "code2",
+		"price": 154999,
+		"status": true,
+		"stock": 20,
+		"category": "Tablet"
+	},
+	{
+		"id": 3,
+		"title": "Microsoft Xbox Series S",
+		"description": "512GB Standard color blanco",
+		"code": "code3",
+		"price": 249999,
+		"status": true,
+		"stock": 15,
+		"category": "Console"
+	},
+	{
+		"id": 4,
+		"title": "Notebook Dell Inspiron 3525 plateada",
+		"description": "15.5 pulgadas, AMD Ryzen 5 5625U 8GB de RAM 256GB SSD, AMD Radeon RX Vega 7 120 Hz 1920x1080px Windows 11 Home",
+		"code": "code4",
+		"price": 349999,
+		"status": true,
+		"stock": 5,
+		"category": "Computer"
+	},
+	{
+		"id": 5,
+		"title": "Monitor gamer Samsung F22T35 ",
+		"description": "led 22 pulgadas dark blue gray 100V/240V",
+		"code": "code5",
+		"price": 59999,
+		"status": true,
+		"stock": 50,
+		"category": "Monitor"
+	}
+]
